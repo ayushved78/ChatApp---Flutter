@@ -1,32 +1,27 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
+<p>Designed the UI of <a href="https://dribbble.com/shots/4585382-Simple-BMI-Calculator">BMI design</a> from Ruben Vaalt suing Flutter. the apps comes with an interactive user interface and calculates the BMI of user using height and Weight taken as input.</p>
 
-## Our Goal
+<h3>How to use<h3>
+<p>The above application is developed using Flutter and Dart, so you need to execute the following steps before executing the application:
+  <ol>
+    <li>make sure you are using SDK 29 or else change the SDK version</li>
+    <li>head ove to pubspect.yaml and perform pub get</li>
+    <li>Open project location and run "flutter run"</li>
+  </ol>
+  You are all set to execute the program.</p>
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+<h3>RUN</h3>
+<p>flutter run</p>
 
-
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
-
+<h3>Reference</h3>
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+<h3>Author</h3>
+ <p><ul><li>Instagram: <a href="https://www.instagram.com/ayush.singh78/">ayush.singh78</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/ayush-singh-9b77641b4/">Ayush Singh</a></li></ul></p>
+  
 
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
